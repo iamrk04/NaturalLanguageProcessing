@@ -4,12 +4,11 @@ This repository is entirely open source and welcomes contributions! Please read 
 
 ## Issues
 
-All forms of feedback are welcome through [issues](https://github.com/iamrk04/<repo_name>/issues/new)
+All forms of feedback are welcome through [issues](https://github.com/iamrk04/NaturalLanguageProcessing/issues/new)
 
 ## Repository Structure
 
-The [`notebooks`](./notebooks/) directory is intended for iterative, interactive code development examples. The notebooks are organized by topic and can be run in any order. The notebooks are designed to be self-contained and can be run independently of each other. Each notebook **must** contain `Troubleshooting` section at the end of the notebook. This section should contain the common errors that can occur while running the notebook and their solutions.
-
+The [`notebooks`](./notebooks/) directory is intended for iterative, interactive code development examples. The notebooks are organized by topic and can be run in any order. The notebooks are designed to be self-contained and can be run independently of each other. 
 ## Pull Requests
 
 Pull requests are welcome! Please follow the guidelines below to ensure that your pull request is accepted.
@@ -19,7 +18,8 @@ Pull requests are welcome! Please follow the guidelines below to ensure that you
 Clone the repository and install the required Python packages for contributing:
 
 ```terminal
-git clone https://github.com/iamrk04/<repo_name>.git
+git clone https://github.com/iamrk04/NaturalLanguageProcessing.git
+
 cd <repo_name>
 pip install -r requirements.txt
 ```
